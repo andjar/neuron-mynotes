@@ -4,7 +4,7 @@ tags: [home]
 
 # Home
 
-Hva er egentlig forskjellen på en vanlig [[lenke]] og en [[[trippel-lenke]]]?
+Hva er egentlig forskjellen på en vanlig [[lenke]] og en [[[trippellenke]]]?
 
 Other pages on this zettelkasten (this demonstrates how to use [link queries](https://neuron.zettel.page/link-query.html)):
 
